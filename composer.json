@@ -1,0 +1,12 @@
+{
+    "name": "webian/test",
+    "description": "Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Webian",
+            "email": "ian@webian.it"
+        }
+    ]
+}
